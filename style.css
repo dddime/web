@@ -1,0 +1,159 @@
+@import url('https://fonts.googleapis.com/css2?family=Bagel+Fat+One&family=Noto+Sans+KR:wght@100;200;300;400;500;600;700;800;900&display=swap');
+*{margin: 0;}
+.wrap{width: 1100px; margin: 0 auto }
+     .box1{
+        height: 900px;
+    }
+     .box2{
+        height: 818px;
+        margin-top: 14px;
+    }
+     .box3{
+        height: 1085px;
+    }
+     .box4{
+        height: 748px;
+    }
+     .inbox1{
+        width: 1100px; height: 900px; margin: 0 auto;
+        position: relative; }
+    .inbox2{
+        width: 1100px; height: 818px; margin: 0 auto;
+        position: relative;
+    }
+    .inbox3{
+        width: 1100px; height: 1085px; margin: 0 auto;
+        position: relative;
+    }
+    .inbox4{
+        width: 1100px; height: 748px; margin: 0 auto;
+        position: relative;
+    }
+    .sb1{
+         position: absolute; 
+         width: 400px; height: 346px; left: 86px; top: 235px;
+
+    }
+    .sb2{
+        position: absolute; 
+        width: 125px; height: 99px; left: 904px; top: 709px;
+    }
+    .sb3{
+        position: absolute;
+        width: 910px; bottom: 803px; right: 233px; left: 86px;
+        border-top: 1px solid #040303;
+    }
+    .rb1{
+        position: absolute; 
+        width: 451px; height: 451px; bottom: 353px; right: 563px;
+        
+    }
+    .rb2{
+        position: absolute; 
+        width: 375px; height: 364px; bottom: 382px; right: 114px;
+
+    }
+    .rb3{
+        position: absolute;
+        width: 967px; height: 277px; bottom: 36px; right: 47px;
+        
+    }
+    .gb1{
+        position: absolute;
+        width: 1100px; height: 465px; bottom: 570px; top: 50px;
+        margin: 0;
+    }
+    .gb2{
+        position: absolute;
+        width: 929px; height: 237px; bottom: 175px; right: 85px;
+    }
+    .gb3{
+        position: absolute;
+        width: 616px; height: 42px; bottom: 480px; right: 226px;
+    }
+    .fb1{
+        position: absolute;
+        width: 396px; height: 538px; left: 102px;
+    }
+    .fb2{
+        position: absolute;
+        width: 446px; height: 554px; bottom: 183px; right: 85px;
+    }
+    .fb3{
+        position: absolute;
+        width: 370px; left: 120px; top: 545px;
+    }
+    .fb4{
+        position: absolute;
+        width: 298px; right: 47px; bottom: 58px;
+    }
+    .txt1{
+        font-family: 'Noto+Sans+KR' sans-serif;
+        font-size: 20px;
+        font-weight: 300;
+        letter-spacing: -1.5px;
+        line-height: 30px;
+        word-spacing: 1px;
+        text-align: justify;
+        color: black;
+    }
+    .txt2{
+        font-family: 'Noto+Sans+KR' sans-serif;
+        font-size: 20px;
+        font-weight: 300;
+        letter-spacing: -1.5px;
+        line-height: 30px;
+        word-spacing: 1px;
+        text-align: justify;
+        color: black;
+    }
+    .txt3{
+        font-family: 'Noto+Sans+KR' sans-serif;
+        font-size: 20px;
+        font-weight: 300;
+        letter-spacing: -1.5px;
+        line-height: 30px;
+        word-spacing: 1px;
+        text-align: justify;
+        color: black;
+    }
+    .txt4{
+        font-family: 'Noto+Sans+KR' sans-serif;
+        font-size: 15px;
+        font-weight: 200;
+        letter-spacing: -0.5px;
+        line-height: 25px;
+        word-spacing: 1px;
+        text-align: center;
+        color: #8B8888;
+    }
+    .txt5{
+        font-family: 'Noto+Sans+KR' sans-serif;
+        font-size: 20px;
+        font-weight: 300;
+        letter-spacing: -1.2px;
+        line-height: 30px;
+        word-spacing: 1px;
+        text-align: justify;
+        color: black;
+    }
+    .txt6{
+        font-family: 'Noto+Sans+KR' sans-serif;
+        font-size: 15px;
+        font-weight: 200;
+        letter-spacing: -1px;
+        line-height: 25px;
+        word-spacing: 1px;
+        text-align: center;
+        color: #8B8888;
+    }
+    .txt7{
+        font-family: 'Noto+Sans+KR' sans-serif;
+        font-size: 15px;
+        font-weight: 200;
+        letter-spacing: -1px;
+        line-height: 25px;
+        word-spacing: 1px;
+        text-align: center;
+        color: #8B8888;
+    }
